@@ -47,7 +47,8 @@ The dashboard includes:
 - Scatter plot to analyze course performance
 
 ### 📷 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Student Interest   Course Demand Analysis Dashboard](https://github.com/user-attachments/assets/222367a7-f159-44e6-94f2-34067593e564)
+
 
 ---
 
