@@ -1,11 +1,11 @@
-# 🎓 Student Interest & Course Demand Analysis – Power BI
+#  Student Interest & Course Demand Analysis – Power BI
 
-## 📌 Project Objective
+##  Project Objective
 The objective of this project is to analyze student behavior and interest across various courses by tracking searches, enquiries, and sign-ups. The dashboard helps understand course demand, user conversion patterns, device preferences, and geographic trends to support data-driven decision-making.
 
 ---
 
-## 📊 Dataset Used
+##  Dataset Used
 - Student interaction data containing:
   - Course name
   - Search count
@@ -18,7 +18,7 @@ The objective of this project is to analyze student behavior and interest across
 
 ---
 
-## ❓ Business Questions / KPIs
+##  Business Questions / KPIs
 - Which courses have the highest student demand?
 - What is the conversion rate from search → enquiry → signup?
 - Which device type is most used for course searches?
@@ -27,7 +27,7 @@ The objective of this project is to analyze student behavior and interest across
 
 ---
 
-## ⚙️ Process / Methodology
+##  Process / Methodology
 1. Imported dataset into Power BI
 2. Cleaned and transformed data using Power Query
 3. Created calculated measures using DAX
@@ -37,7 +37,7 @@ The objective of this project is to analyze student behavior and interest across
 
 ---
 
-## 📈 Dashboard Overview
+##  Dashboard Overview
 The dashboard includes:
 - KPI cards for total searches, enquiries, and sign-ups
 - Course-wise activity comparison
@@ -51,7 +51,7 @@ The dashboard includes:
 
 ---
 
-## 🌟 Project Highlights
+##  Project Highlights
 - Identified high-demand courses such as Data Science and Machine Learning
 - Observed major drop-off between enquiry and signup stages
 - Laptop users contribute the highest search volume
@@ -60,12 +60,12 @@ The dashboard includes:
 
 ---
 
-## ✅ Final Conclusion
+##  Final Conclusion
 This analysis provides valuable insights into student preferences and behavior. The dashboard can help educational institutions optimize course offerings, improve marketing strategies, and enhance conversion rates by focusing on high-demand courses, preferred devices, and key locations.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Power BI
 - DAX
 - Power Query
@@ -73,6 +73,6 @@ This analysis provides valuable insights into student preferences and behavior. 
 
 ---
 
-## 👤 Author
+##  Author
 **Sakshi Bile**  
 Aspiring Data Analyst  
